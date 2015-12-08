@@ -257,8 +257,14 @@ iframe
 .clearfix {
   zoom: 1; }
 
-fieldset {
- padding:0 20px 20px 20px;
- margin-bottom:10px;
- border:1px solid red;
- }
+
+ 
+ .contact
+{
+	color:black;
+    text-align:center;
+    width:30%;
+    margin-left:30px;
+    display:inline-block;
+    vertical-align:middle;
+}
